@@ -39,8 +39,7 @@
 > An expressive, minimalist typing game with unique UI and rhythm — a love letter to focus, keyboard, and flow.  
 > Built with React + Framer Motion + sound-reactivity.
 
-![Repo](https://img.shields.io/github/stars/Aryanonit/spacebar?style=social)  
-→ _Find it in my pinned repos above._
+→ _Find it in my pinned repos ._
 
 ---
 
