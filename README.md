@@ -1,6 +1,8 @@
 <h1 align="center">
-  Hi there 👋 I'm Aryan Singh!  
+  Hi there I'm Aryan Singh!  
   <img src="assets/welcome.gif" width="40" alt="Hello" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 </h1>
 
 <p align="center">
@@ -24,12 +26,17 @@
 
 ### 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,vercel,python" />
+</p>
+
 **Languages:** Python • JavaScript • TypeScript • C++  
 **AI/ML Tools:** TensorFlow.js • PoseNet • MediaPipe  
 **Frontend:** React • Tailwind • Next.js  
 **Backend & Infra:** Node.js • WebRTC • WebSockets  
 **Game Dev / Physics:** Matter.js • p5.js  
 **Databases:** • SQL
+
 
 ---
 
@@ -48,6 +55,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryanonit&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanonit&theme=tokyonight" />
+ 
+
 </p>
 
 ---
@@ -74,3 +83,6 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/Aryanonit/assets/main/wave.svg" />
+
