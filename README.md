@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Aryanonit/Aryanonit/main/assets/profile_image.jpg" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/Aryanonit/Aryanonit/main/assets/profile_image.png" />
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> About Me
 
